@@ -1,4 +1,4 @@
-import { render, screen, fireEvent } from '@testing-library/react';
+import { render, screen } from '@testing-library/react';
 import Option from '../Option';
 
 const mockOption = { id: "1", label: "Good", icon: "👍" };
