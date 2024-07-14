@@ -1,18 +1,17 @@
-```markdown
+
 # Multi-Step Poll Form
 
 This project is a multi-step poll form built with React, TypeScript, Tailwind CSS, and Redux Toolkit. The form is designed as a vertical carousel without using any additional libraries. The project includes a comprehensive testing suite implemented with Jest and React Testing Library.
 
 ## Project Structure
 
-```
 src/
   ├── api/
   ├── components/
   │   ├── __tests__/
   │   ├── [component files]
   ├── store/
-```
+
 
 ## Getting Started
 
