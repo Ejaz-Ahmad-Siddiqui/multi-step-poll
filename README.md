@@ -90,4 +90,3 @@ For any inquiries or further information, please contact:
 - **GitHub**: [Ejaz-Ahmad-Siddiqui](https://github.com/Ejaz-Ahmad-Siddiqui)
 
 Thank you for using the Multi-Step Poll Form! I hope it meets your needs and expectations.
-```
