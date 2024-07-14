@@ -85,7 +85,7 @@ npm install --save-dev @testing-library/react
 
 For any inquiries or further information, please contact:
 
-- **Name**: Ejaz Ahmad 
+- **Name**: [Ejaz Ahmad](https://www.linkedin.com/in/ejaz-ahmad-siddiqui/) 
 - **Email**: iamejaazahmad@gmail.com
 - **GitHub**: [Ejaz-Ahmad-Siddiqui](https://github.com/Ejaz-Ahmad-Siddiqui)
 
