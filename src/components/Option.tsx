@@ -5,7 +5,7 @@ interface OptionProps {
     onSelect: () => void;
     selectedOption?: string;
 }
-
+// options
 const Option: React.FC<OptionProps> = ({ option, onSelect, selectedOption }) => {
     return (
         <div className="group flex flex-col items-center cursor-pointer m-8 " onClick={onSelect}>
